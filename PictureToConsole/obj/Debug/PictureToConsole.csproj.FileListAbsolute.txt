@@ -1,0 +1,7 @@
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\bin\Debug\PictureToConsole.exe.config
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\bin\Debug\PictureToConsole.exe
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\bin\Debug\PictureToConsole.pdb
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\obj\Debug\PictureToConsole.csproj.AssemblyReference.cache
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\obj\Debug\PictureToConsole.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\obj\Debug\PictureToConsole.exe
+C:\Users\krust\OneDrive\Bureau\C#\PictureToConsole\PictureToConsole\obj\Debug\PictureToConsole.pdb
